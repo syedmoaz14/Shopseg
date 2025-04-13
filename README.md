@@ -18,8 +18,13 @@ https://github.com/syedmoaz14/Shopseg.git
 
 Open `shopseg-url-assignment_wise2024.ipynb` in Jupyter.
 
+## Requirements 
+```
+pip install -r requirements.txt
+```
+
 ## 🖥️ Usage
 Run each cell sequentially after setting up the required environment.
 
 ## 📄 License
-MIT License.
+This project is licensed under the [MIT License](LICENSE).
